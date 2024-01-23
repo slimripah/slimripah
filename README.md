@@ -24,7 +24,7 @@ As of 23rd January 2024, I have not been actively pushing my code on here but th
 
 </div>
 
-To visit my othervgithub account, click [here](github.com/mwinzi)
+To visit my other github account, click [here](github.com/mwinzi)
 
 **Github Stats**
 
