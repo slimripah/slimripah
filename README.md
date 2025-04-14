@@ -55,8 +55,7 @@ And something else,
 
 Here's what I'm listening to:
 
-<div align="center">
-  <img height="400px" src="https://spotify-github-profile.vercel.app/api/view?uid=31vkvzeasd6b7mkvgsil7yvdgblq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" a href="https://github.com/kittinan/spotify-github-profile" />
+<div align="center"> 
   <img height="400px" src="https://spotify-recently-played-readme.vercel.app/api?user=31vkvzeasd6b7mkvgsil7yvdgblq" />
 </div>
 
