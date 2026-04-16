@@ -39,10 +39,6 @@ Well, just something up my sleeve.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=slimripah&bg_color=0d1117&color=FF5F1F&line=FF5F1F&point=FF5F1F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-And something else,
-
-![snake gif](https://github.com/slimripah/slimripah/blob/output/github-contribution-grid-snake.svg)
-
 **Languages Used**
 
 <div align="center">  
