@@ -33,9 +33,8 @@ To visit my other github account, click [here](https://github.com/mwinzi)
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=slimripah&theme=dark&hide_border=false" alt="Slimripah Github Stats" /><br/>
 </div>
 
-**My Code Chart**
 
-Well, just something up my sleeve.
+**My Code Chart**
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=slimripah&bg_color=0d1117&color=FF5F1F&line=FF5F1F&point=FF5F1F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
